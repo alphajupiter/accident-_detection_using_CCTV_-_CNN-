@@ -31,6 +31,8 @@ The problem smartAi solves is now a days we have seen that in many road accident
 
 - Algorithm:
    - ML Algorithm(YOLO Algithm)
+   - CNN Algorithm(Accident detection)
+     
 
 References:
 -For Accident Recognition we used YOLO https://arxiv.org/abs/2108.11539
